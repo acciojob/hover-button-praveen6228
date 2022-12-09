@@ -4,6 +4,7 @@
   border-radius: 5px;
   height: 50px;
   width: 150px;
+  border: none;
 }
 #btn:hover {
   background-color: yellow;
